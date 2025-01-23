@@ -1,0 +1,49 @@
+.fS{
+    background-color: lightsalmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+h2{
+    margin: 15px;
+    font-size: 25px;
+    margin-right: 42px;
+    font-family: sans-serif;
+}
+
+input[type="text"]{
+    width: 15rem;
+    height: 3rem;
+    font-size: 23px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.btne{
+    background-color: red;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+    font-size: larger;
+    margin: -8px -2px;
+    
+}
+.btne:hover{
+    background-color: green;
+}
+
+.btne1{
+    background-color: red;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+    font-size: larger;
+    margin: 20px 30px;
+    
+}
+.btne:hover{
+    background-color: green;
+}

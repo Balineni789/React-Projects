@@ -1,0 +1,15 @@
+
+.navSection{
+    border: 1px solid red;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navSection ul li{
+    margin: 20px;
+    color: white;
+    font-size: 2rem;
+    list-style: none;
+    display: inline-flex;
+}

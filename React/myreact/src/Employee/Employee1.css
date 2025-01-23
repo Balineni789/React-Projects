@@ -1,0 +1,92 @@
+
+.P{
+    margin: -20px 370px;
+}
+
+h2{
+    font-size: 40px;
+    color: #4371c9;
+    margin-top: -1px;
+    text-decoration: underline;
+}
+
+.C {
+    background-color: lightblue;
+    margin: 50px auto;
+    padding: 20px;
+    height: 560px;
+    width: 350px;
+    text-align: center;
+    line-height: 35px;
+    display: inline-block;
+}
+
+label{
+   margin: 3px;
+   font-size: 30px;
+}
+
+input {
+    color: gray;
+    font-size: 25px;
+    text-align: center;
+    width: 290px;
+    height: 45px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+button{
+    color: white;
+    margin: 10px;
+    width: 170px;
+    font-size: 30px;
+    border-radius: 4px;
+    border: 1px solid blue;
+    background-color: red;
+}
+
+button:hover{
+    background-color: green;
+}
+
+.form-con{
+    height: 50vh;
+    margin: -610px 400px;
+  }
+
+  .form-group {
+   display: flex; 
+   height: 45px;
+   width: 400px;
+   margin: 5px;  /*optional*/
+   line-height: 25px; 
+   align-items: center;
+   background-color: lightblue;
+  }
+
+.l {
+    width: 35px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+ 
+.v {
+    margin-left: 130px;
+    line-height: 32px;
+    font-weight: bold;
+    font-size: 22px;
+    color: gray;
+}
+
+h3{
+    margin: 20px 25px;
+    height: 45px;
+    width: 365px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 45px;
+    border-radius: 10px;
+    background: beige;
+} 
